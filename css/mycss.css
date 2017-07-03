@@ -1,4 +1,4 @@
-#wrap { width: 865px; margin: 70px auto; font-family: verdana; color: #555; border: 1px #eee solid; padding: 70px 70px 20px 70px; -webkit-box-shadow: 0px 0 50px #999; -moz-box-shadow: 0px 0 30px #999; box-shadow: 0px 0 50px #888; background: #fff; background: -moz-linear-gradient(top, #EEEEEE 0%, #FFFFFF 2%); background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#EEEEEE), color-stop(2%,#FFFFFF)); }
+#wrap { width: 1000px; margin: 70px auto; font-family: verdana; color: #555; border: 1px #eee solid; padding: 70px 70px 20px 70px; -webkit-box-shadow: 0px 0 50px #999; -moz-box-shadow: 0px 0 30px #999; box-shadow: 0px 0 50px #888; background: #fff; background: -moz-linear-gradient(top, #EEEEEE 0%, #FFFFFF 2%); background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#EEEEEE), color-stop(2%,#FFFFFF)); }
 .line { clear: both; border-bottom: 2px #707070 solid; margin:0 0 2px 0; }
-.line2 { clear: both; border-bottom: 2px #C0C0C0 solid; margin:0 0 2px 0; }
+.line2 { clear: both; border-bottom: 1px #C0C0C0 solid; margin:0 0 1px 0; }
 .line3 { clear: both; border-bottom: 2px #FFFFFF solid; margin:0 0 20px 0; }
