@@ -1,0 +1,59 @@
+# jemdoc: menu{MENU}{research.html}
+= Research
+
+== Research Interests
+
+My research focuses on Multi-armed Bandit problems. Generally, I am interested in Online Learning and its applications.
+
+== Papers
+
+Note: in papers related to theoretical computer science and operations research, authors are
+usually listed in alphabetical order. \n \n \n
+
+~~~
+{}{raw}
+<ul style="list-style-type:square;">
+  <li>
+  <i> Thresholding Bandit with Optimal Aggregate Regret </i> (<a href="http://arxiv.org/abs/1905.11046">arXiv</a>) <br>
+  Chao Tao, Saúl A. Blanco, Jian Peng, Yuan Zhou <br>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp NeurIPS 2019
+  </li>
+</ul>
+~~~
+
+~~~
+{}{raw}
+<ul style="list-style-type:square;">
+  <li>
+  <i> Collaborative Learning with Limited Interaction: Tight Bounds for Distributed Exploration in Multi-Armed Bandits </i> (<a href="https://arxiv.org/abs/1904.03293">arXiv</a>) <br>
+  Chao Tao, Qin Zhang, Yuan Zhou <br>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp FOCS 2019
+  </li>
+</ul>
+~~~
+
+~~~
+{}{raw}
+<ul style="list-style-type:square;">
+  <li>
+  <i> Best Arm Identification in Linear Bandits with Linear Dimension Dependency </i> (<a href="http://proceedings.mlr.press/v80/tao18a.html">PMLR</a>) <br>
+  Chao Tao, Saúl A. Blanco, Yuan Zhou <br>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp ICML 2018
+  </li>
+</ul>
+~~~
+
+~~~
+{}{raw}
+<ul style="list-style-type:square;">
+  <li>
+  <i> Variance-sensitive Best Arm Identification </i> <br>
+  Pinyan Lu, Chao Tao, Yuan Zhou <br>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Manuscript
+  </li>
+</ul>
+~~~
+
+== Services
+
+- Reviewer/Sub-reviewer for: ISAAC 2019, NeurIPS 2019, IJCAI 2019, ITCS 2018, ISAAC 2018, TCS 2018
